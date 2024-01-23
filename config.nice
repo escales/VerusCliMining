@@ -1,8 +1,8 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
-        	"url": "stratum+tcp://randomxmonero.auto.nicehash.com:9200",
+		"name": "Nicehash",
+        	"url": "stratum+tcp://verushash.auto.nicehash.com:9200",
 		"timeout": 150
 	},
 	{
